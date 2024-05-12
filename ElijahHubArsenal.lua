@@ -1,5 +1,5 @@
 
-q = loadstring(game:HttpGet("https://pastebin.com/raw/RmLqTugH"))()
+q = loadstring(game:HttpGet("https://raw.githubusercontent.com/rileybeerblx2/kavo-ui/main/kavo.lua"))()
 local r = q.CreateLib("Elijah Hub (Arsenal) - V4", "Ocean")
 
 local s = Instance.new("ScreenGui")
