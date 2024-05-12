@@ -1,6 +1,6 @@
 
 q = loadstring(game:HttpGet("https://raw.githubusercontent.com/rileybeerblx2/kavo-ui/main/kavo.lua"))()
-local r = q.CreateLib("Elijah Hub (Arsenal) - V4", "Ocean")
+local r = q.CreateLib("Elijah Hub - Arsenal", "BloodTheme")
 
 local s = Instance.new("ScreenGui")
 local u = Drawing.new("Circle")
